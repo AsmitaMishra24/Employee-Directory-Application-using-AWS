@@ -19,6 +19,7 @@ This is a full-stack **Employee Directory Management** application hosted on an 
 - **Amazon RDS DB Instance** – Relational database service (if used)  
 - **Amazon CloudWatch** – Monitoring and logging (optional)
 
+
 ## ✅ How It Works
 
 1. Application is launched on an EC2 public IP  
@@ -79,6 +80,10 @@ This is a full-stack **Employee Directory Management** application hosted on an 
 ![DynamoDB View](https://github.com/user-attachments/assets/f7cf2f7a-c6ed-4e8f-8cb3-76097876e93e)
 
 </details>
+
+## 📝 Notion Documentation
+
+[Create an Employee Directory Application using AWS](https://shining-buffet-929.notion.site/Create-a-Employee-Directory-Application-using-AWS-216e8249092f8021bd09ccd9f7724f75?source=copy_link)
 
 ## 📬 Contact
 
