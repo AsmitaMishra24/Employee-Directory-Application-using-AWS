@@ -57,8 +57,6 @@
     - **User data** (update values accordingly):
 
 ```bash
-bash
-CopyEdit
 #!/bin/bash -ex
 wget https://aws-tc-largeobjects.s3-us-west-2.amazonaws.com/DEV-AWS-MO-GCNv2/FlaskApp.zip
 unzip FlaskApp.zip
