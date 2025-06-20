@@ -16,8 +16,8 @@ This is a full-stack **Employee Directory Management** application hosted on an 
 - **AWS IAM** – Security and access management between services  
 - **Amazon S3** – Storage for employee profile images  
 - **Amazon DynamoDB** – NoSQL database to store employee records  
-- **Amazon RDS DB Instance** – Relational database service (if used)  
-- **Amazon CloudWatch** – Monitoring and logging (optional)
+- **Amazon RDS DB Instance** – Relational database service
+- **Amazon CloudWatch** – Monitoring and logging
 
 
 ## ✅ How It Works
